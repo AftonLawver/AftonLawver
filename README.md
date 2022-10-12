@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Afton Lawver
 - 👀 I’m interested in developing software for healthcare/medical/microbiology field.
-- 🌱 I’m currently learning about Advanced Object Oriented Programming in C++ and Operating Systems/
+- 🌱 I’m currently learning about Advanced Object Oriented Programming in C++ and Operating Systems
 - 💞️ I’m looking to collaborate on any projects involving working as a team to develop software solutions.
 - 📫 Contact me via email @ lawverap25@gmail.com
