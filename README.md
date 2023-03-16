@@ -1,3 +1,6 @@
+
+![Image not found](Welcome_To_My_GitHub_Page%20(1).png)
+
 - 👋 Hi, I’m Afton Lawver
 - 👀 I’m interested in developing software for healthcare/medical/microbiology field.
 - 🌱 I’m currently learning about Computer Networks, Programming Distributed Applications, and Linux/Unix Programming.
