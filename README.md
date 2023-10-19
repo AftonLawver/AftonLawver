@@ -1,5 +1,5 @@
 
-![Image not found](afton_github_banner.png)
+![Image not found](afton_github_banner_developer.png)
 
 ![](https://komarev.com/ghpvc/?username=AftonLawver&style=flat)
 
