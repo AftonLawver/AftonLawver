@@ -26,12 +26,13 @@ As a results-driven web developer with a Computer Science degree, I create excep
 <div style="display: inline_block" align="center">
   <img src="html.png" width="40">
   <img src="css.png" width="40">
-  <img src="sass.png" width="40">
   <img src="js.png" width="40">
-  <img src="ts.png" width="40">
-  <img src="react.png" width="40">
+  <img src="tailwind.png" width="40">
+  <img src="express.png" width="40">
   <img src="git.png" width="40">
   <img src="node.png" width="40">
+  <img src="mysql.png" width="40">
+  <img src="mongodb.png" width="40">
 </div>
 
 
