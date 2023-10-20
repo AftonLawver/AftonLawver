@@ -41,6 +41,7 @@ As a results-driven web developer with a Computer Science degree, I create excep
 
 <h3>Quick Projects</h3>
 These are the accomplishments that bring me the most pride throughout my journey.
+
 |               Project |                                                            |                                                          | Tech                 |
 |----------------------:|------------------------------------------------------------|----------------------------------------------------------|----------------------|
 |               Personal Website | [Github](https://github.com/AftonLawver/Website) | [Demo](https://www.aftonlawver.com/) | Javascript, Nodejs, ExpressJS, MongoDB |
