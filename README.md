@@ -13,7 +13,7 @@
 
 ### Hi there 👋
 
-<img align="left" src="profileimage.jpg" alt="image not found" width="150" border-radius="50%">
+<img align="left" src="me.jpg" alt="image not found" width="150" style="border: 20px solid  black;">
 
 <div>
 As a results-driven web developer with a Computer Science degree, I create exceptional websites and web apps that engage users. I specialize in frontend design, using JavaScript (ES6), HTML, CSS, Bootstrap, and TailwindCSS for pixel-perfect, responsive interfaces. On the backend, I excel in Node.js and ExpressJS for robust server applications, integrating MongoDB and MySQL databases for efficient data management. My strong foundation in computer science enhances my problem-solving and performance optimization skills. I'm excited to bring my creativity and dedication to your team, collaborating on projects that drive success and engage your audience. Together, we can transform your web presence into something remarkable.
