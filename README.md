@@ -40,14 +40,15 @@ As a results-driven web developer with a Computer Science degree, I create excep
 <hr>
 <br>
 
-<h3>Quick Projects</h3>
-These are the accomplishments that bring me the most pride throughout my journey.
+<h3>Projects</h3>
+These are the achievements that mean the most to me as I think back on my journey.
+
 
 |               Project |                                                            |                                                          | Tech                 |
 |----------------------:|------------------------------------------------------------|----------------------------------------------------------|----------------------|
 |               Personal Website | [Github](https://github.com/AftonLawver/Website) | [Demo](https://www.aftonlawver.com/) | Javascript, Nodejs, ExpressJS, MongoDB |
 |     Signature Land Management Website | [Github](https://github.com/AftonLawver/Signature-Land-Management)       | [Demo](https://signature-land-management-bad775a72ef0.herokuapp.com/) | Javascript, Nodejs, ExpressJS, Bootstrap, MongoDB    |
-
+|               Pomodoro Timer Online | [Github](https://github.com/AftonLawver/Pomodoro-Timer-Online) | [Demo](https://pomodoro-timer-online-634cce94af27.herokuapp.com/) | HTML, CSS, Javascript, jQuery |
 ##
 
 <br>
