@@ -28,6 +28,7 @@ As a results-driven web developer with a Computer Science degree, I create excep
   <img src="css.png" width="40">
   <img src="js.png" width="40">
   <img src="tailwind.png" width="40">
+  <img src="bootstrap.png" width="40">
   <img src="express.png" width="40">
   <img src="git.png" width="40">
   <img src="node.png" width="40">
