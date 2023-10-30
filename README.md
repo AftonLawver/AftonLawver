@@ -27,7 +27,6 @@ As a results-driven web developer with a Computer Science degree, I create excep
   <img src="html.png" width="40">
   <img src="css.png" width="40">
   <img src="js.png" width="40">
-  <img src="tailwind.png" width="40">
   <img src="bootstrap.png" width="40">
   <img src="express.png" width="40">
   <img src="git.png" width="40">
@@ -35,7 +34,6 @@ As a results-driven web developer with a Computer Science degree, I create excep
   <img src="mysql.png" width="40">
   <img src="mongodb.png" width="40">
 </div>
-
 
 <br>
 <hr>
@@ -47,9 +45,11 @@ These are the achievements that mean the most to me as I think back on my journe
 
 |               Project |                                                            |                                                          | Tech                 |
 |----------------------:|------------------------------------------------------------|----------------------------------------------------------|----------------------|
-|               Personal Website | [Github](https://github.com/AftonLawver/Website) | [Demo](https://www.aftonlawver.com/) | Javascript, Nodejs, ExpressJS, MongoDB |
-|     Signature Land Management Website | [Github](https://github.com/AftonLawver/Signature-Land-Management)       | [Demo](https://signature-land-management-bad775a72ef0.herokuapp.com/) | Javascript, Nodejs, ExpressJS, Bootstrap, MongoDB    |
+|     StaffVault | [Github](https://github.com/AftonLawver/StaffVault)       | [Demo](https://staff-vault-bfa69afc26b1.herokuapp.com/) | HTML, CSS, Javascript, Nodejs, ExpressJS, MySQL    |
 |               Pomodoro Timer Online | [Github](https://github.com/AftonLawver/PomodoroTimerOnline) | [Demo](https://pomodoro-timer-online-634cce94af27.herokuapp.com/) | HTML, CSS, Javascript, jQuery |
+|     Signature Land Management Website | [Github](https://github.com/AftonLawver/Signature-Land-Management)       | [Demo](https://signature-land-management-bad775a72ef0.herokuapp.com/) | Javascript, Nodejs, ExpressJS, Bootstrap, MongoDB    |
+|               Personal Website | [Github](https://github.com/AftonLawver/Website) | [Demo](https://www.aftonlawver.com/) | Javascript, Nodejs, ExpressJS, MongoDB |
+
 ##
 
 <br>
