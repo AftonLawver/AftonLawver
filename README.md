@@ -28,6 +28,7 @@ As a results-driven web developer with a Computer Science degree, I create excep
   <img src="css.png" width="40">
   <img src="js.png" width="40">
   <img src="bootstrap.png" width="40">
+  <img src="sass.png" width="40">
   <img src="express.png" width="40">
   <img src="git.png" width="40">
   <img src="node.png" width="40">
@@ -45,10 +46,11 @@ These are the achievements that mean the most to me as I think back on my journe
 
 |               Project |                                                            |                                                          | Tech                 |
 |----------------------:|------------------------------------------------------------|----------------------------------------------------------|----------------------|
+|               Smith Elite Training Website | [Github](https://github.com/AftonLawver/Smith-Elite-Training) | [Demo](https://smith-elite-training-edf72749f730.herokuapp.com/) | HTML, CSS(SASS), Javascript, Nodejs, ExpressJS, MongoDB |
 |     StaffVault | [Github](https://github.com/AftonLawver/StaffVault)       | [Demo](https://staff-vault-bfa69afc26b1.herokuapp.com/) | HTML, CSS, Javascript, Nodejs, ExpressJS, MySQL    |
 |               Pomodoro Timer Online | [Github](https://github.com/AftonLawver/PomodoroTimerOnline) | [Demo](https://pomodoro-timer-online-634cce94af27.herokuapp.com/) | HTML, CSS, Javascript, jQuery |
 |     Signature Land Management Website | [Github](https://github.com/AftonLawver/Signature-Land-Management)       | [Demo](https://signature-land-management-bad775a72ef0.herokuapp.com/) | Javascript, Nodejs, ExpressJS, Bootstrap, MongoDB    |
-|               Personal Website | [Github](https://github.com/AftonLawver/Website) | [Demo](https://www.aftonlawver.com/) | Javascript, Nodejs, ExpressJS, MongoDB |
+|               Personal Website | [Github](https://github.com/AftonLawver/Website) | [Demo](https://www.aftonlawver.com/) | HTML, CSS, Javascript, Nodejs, ExpressJS, MongoDB |
 
 ##
 
