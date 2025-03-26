@@ -16,8 +16,11 @@
 <img align="left" src="me.jpg" alt="image not found" width="150" style="border: 20px solid  black;">
 
 <div>
-As a results-driven web developer with a Computer Science degree, I create exceptional websites and web apps that engage users. I specialize in frontend design, using JavaScript (ES6), HTML, CSS, Bootstrap, and TailwindCSS for pixel-perfect, responsive interfaces. On the backend, I excel in Node.js and ExpressJS for robust server applications, integrating MongoDB and MySQL databases for efficient data management. My strong foundation in computer science enhances my problem-solving and performance optimization skills. I'm excited to bring my creativity and dedication to your team, collaborating on projects that drive success and engage your audience. Together, we can transform your web presence into something remarkable.
-</div>
+My journey into technology started with a deep curiosity about how systems work—both biological and technological. With degrees in Computer Science and Physiology from Southern Illinois University Carbondale, I’ve always been driven by the desire to understand complex systems and make them function more efficiently. This passion led me to the field of higher education IT, where behind every student's success is a network of technological systems working in the background.
+
+At Kishwaukee College, I focus on leveraging Ellucian’s Colleague ERP system to streamline processes, convert state reports, and create seamless workflows. One of my proudest achievements was migrating state reports from Envision Basic to PostgreSQL, optimizing our systems for SaaS compatibility. Whether I’m building vendor integrations, designing software, or resolving helpdesk tickets, my goal is to simplify the complex and ensure technology supports students and staff effectively.
+
+As I look to the future, I’m excited about the potential of emerging technologies and remain dedicated to finding new ways to enhance the role of IT in higher education.</div>
 
 <hr>
 <br>
