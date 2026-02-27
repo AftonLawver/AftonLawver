@@ -15,11 +15,13 @@
 <img align="left" src="me.jpg" alt="image not found" width="150" style="border: 20px solid  black;">
 
 <div>
-My journey into technology started with a deep curiosity about how systems work—both biological and technological. With degrees in Computer Science and Physiology from Southern Illinois University Carbondale, I’ve always been driven by the desire to understand complex systems and make them function more efficiently. This passion led me to the field of higher education IT, where behind every student's success is a network of technological systems working in the background.
+My journey into technology began with a deep curiosity about how complex systems function—both biological and technological. Earning degrees in Computer Science and Physiology from Southern Illinois University Carbondale shaped the way I approach problem-solving: analytically, systematically, and with a focus on optimization. I’ve always been driven to understand intricate systems and make them work more efficiently.
 
-At Kishwaukee College, I focus on leveraging Ellucian’s Colleague ERP system to streamline processes, convert state reports, and create seamless workflows. One of my proudest achievements was migrating state reports from Envision Basic to PostgreSQL, optimizing our systems for SaaS compatibility. Whether I’m building vendor integrations, designing software, or resolving helpdesk tickets, my goal is to simplify the complex and ensure technology supports students and staff effectively.
+Today, in my role at Ferrilli Consulting, I bring that systems-oriented mindset to institutions across higher education. I specialize in Ellucian’s Colleague ERP, helping colleges and universities streamline processes, modernize reporting, and build scalable, sustainable technical solutions. From migrating legacy state reports to PostgreSQL for SaaS compatibility to developing integrations and refining workflows, I focus on transforming complex challenges into practical, forward-thinking solutions.
 
-As I look to the future, I’m excited about the potential of emerging technologies and remain dedicated to finding new ways to enhance the role of IT in higher education.</div>
+At Ferrilli, I collaborate with diverse institutional teams, providing strategic guidance and hands-on technical expertise to ensure enterprise systems truly support student success and operational excellence. Whether optimizing ERP environments, enhancing reporting infrastructures, or solving mission-critical issues, my goal remains the same: simplify complexity and empower institutions through thoughtful, effective technology solutions.
+
+As higher education continues to evolve, I’m energized by the opportunity to help institutions adapt, innovate, and maximize the value of their technology investments.</div>
 
 <hr>
 <br>
